@@ -1,1 +1,26 @@
+# Multiphysics Helmet Optimization Project
 
+## Project Overview
+This project focused on designing and evaluating a protective helmet model using Fusion 360 and SimScale. The goal was to analyze the helmet’s structural performance and airflow behavior through static structural and CFD simulations.
+
+## Tools Used
+- Fusion 360
+- SimScale
+- CFD
+- Static Structural Analysis
+
+## Simulation Work
+### Structural Analysis
+- Evaluated stress distribution and displacement under loading conditions.
+- Reviewed von Mises stress behavior to identify high-stress regions.
+
+### CFD Analysis
+- Analyzed airflow behavior and pressure distribution around the helmet geometry.
+- Evaluated aerodynamic characteristics using CFD simulations.
+
+## Key Skills Demonstrated
+- CAD Modeling
+- CFD
+- FEA
+- Engineering Design
+- Mesh Refinement
